@@ -1,7 +1,11 @@
 # Primer **hola mundo**
+
 ### Creacion de archivo
+
 Se crea un archivo llamado **hola_mundo** con la extension *.py*
+
 ### Ejecucion del programa
+
 Para ejecutar el programa hay que:
 
 * Posicionarse en la carpeta contenedora del archivo a ejecutar
@@ -23,7 +27,7 @@ Para ejecutar el programa hay que:
 * Escribes el comando
 
   ```bash
-  ptyhon hola_mundo.py
+  python hola_mundo.py
   ```
 
   Y debera de aparecer el mensaje que indicaste que se hiciera el print
