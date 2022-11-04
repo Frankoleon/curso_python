@@ -9,7 +9,7 @@ nombre = 'Franco Mtz'
 edad = 25
 ```
 
-Asi de simple se declaran variables podemos hacer una impreison de sus valores con 
+Asi de simple se declaran variables podemos hacer una impreison de sus valores con
 
 ```python
 print(nombre, edad)
@@ -18,3 +18,11 @@ print(nombre, edad)
 y el resultado sera
 
 ![1667447365692](image/README/1667447365692.png)
+
+Tambien es posible asignar en una sola linea de codigo el mismo valor a mas de una variable
+
+```python
+dato = edad = anios = 30
+```
+
+![1667530575918](image/README/1667530575918.png)
